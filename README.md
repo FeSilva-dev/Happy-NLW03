@@ -112,5 +112,5 @@ Feito com carinho por Felipe Silva :wave::wave: Entre em contato!🚀
 
 ## :memo: Licença
 
-Copyright © 2020 [Alexandre Costa](https://github.com/FeSilva-dev).<br />
+Copyright © 2020 [Felipe Silva](https://github.com/FeSilva-dev).<br />
 This project is [MIT](./LICENSE.txt) licensed.
