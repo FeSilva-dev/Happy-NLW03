@@ -52,7 +52,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/FeSilva-dev/Happy-NLW03
+$ git clone git@github.com:FeSilva-dev/Happy-NLW03.git
 
 # Vá para a pasta backend
 $ cd backend
